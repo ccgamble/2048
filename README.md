@@ -14,6 +14,7 @@ To play our game in the browser, visit [2048](https://rcwestlake.github.io/2048/
 
 ![game](https://cloud.githubusercontent.com/assets/9679076/19008250/1f06dc3a-8727-11e6-8225-d8de19767497.png)
 
+
 ###Local Storage
 
 We store the high score in local storage so a user can keep track of how they have done. 
